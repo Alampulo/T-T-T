@@ -1,14 +1,14 @@
 var triangleTracker = function(a, b, c) {
     if((a === b) && (a == c ) && (b === c)) {
-        alert ("Equilateral");
+        alert ("Equilateral KEEPIN IT REAL EVEN IF T KILLS  ");
     } else if ((a === b) || (a === c )) {
-        alert ("Isosceles");
+        alert ("Isosceles WLD U STIL LUV ME IF U FOUND OUT I WAS THUGGIN");
     } else if ((a === b) || (b === c )) {
-        alert ("Isosceles");
+        alert ("Isosceles  NEVER HAD TTT WITH A RICHMANS'S DOWTA");
     } else if ((b === c) || (a === c )) {
-        alert ("Isosceles");
+        alert ("Isosceles RAISED IN THE CITY SHITTY EVER SINCE  WAS A LITTLE KITTY DRINKIN LIQOURFWOM MUMS TITTY");
     } else if ((a !== b) && (a !== c) && (b !== c)) {
-        alert ("Scalene-not a t");
+        alert ("Scalene  snitches get stitches");
     }
 };
 
