@@ -15,11 +15,11 @@ A web app that allows a user identify the types of triangles by inputing the len
 
 ## Technologies Used
 
-*JavaScript
-*HTML/CSS
-*jQuery
+* JavaScript
+* HTML/CSS
+* jQuery
 
-### Legal
+### COPYRIGHT & LICENSE
 
 Copyright (c) 2018 Bryan Juma
 
