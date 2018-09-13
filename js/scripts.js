@@ -6,7 +6,7 @@ var triangleTracker = function(a, b, c) {
     } else if ((a === b) || (b === c )) {
         alert ("Isosceles  NEVER HAD TTT WITH A RICHMANS'S DOWTA");
     } else if ((b === c) || (a === c )) {
-        alert ("Isosceles RAISED IN THE CITY SHITTY EVER SINCE  WAS A LITTLE KITTY DRINKIN LIQOURFWOM MUMS TITTY");
+        alert ("Isosceles wonder if heaven got a ghetto");
     } else if ((a !== b) && (a !== c) && (b !== c)) {
         alert ("Scalene  snitches get stitches");
     }
